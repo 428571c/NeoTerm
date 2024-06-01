@@ -20,7 +20,7 @@ object DefaultValues {
 
   const val loginShell = "bash"
   const val initialCommand = ""
-  const val defaultFont = "SourceCodePro"
+  const val defaultFont = "UbuntuMono"
 }
 
 object NeoTermPath {

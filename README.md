@@ -1,6 +1,6 @@
 NeoTerm
 =======
-[![Travis build status](https://travis-ci.org/NeoTerm/NeoTerm.svg?branch=master)](https://travis-ci.org/NeoTerm/NeoTerm)
+[![Android CI Status](https://github.com/428571c/NeoTerm/workflows/Android%20CI/badge.svg)](https://github.com/428571c/NeoTerm/actions)
 ![](https://img.shields.io/badge/language-Kotlin-green.svg)
 ![](https://img.shields.io/badge/license-GPLv3-000000.svg)
 

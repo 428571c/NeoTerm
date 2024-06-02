@@ -11,6 +11,8 @@ import android.os.IBinder
 import android.os.PowerManager
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.NotificationCompat
+import android.provider.Settings
+import android.net.Uri
 import io.neoterm.R
 import io.neoterm.backend.EmulatorDebug
 import io.neoterm.backend.TerminalSession
